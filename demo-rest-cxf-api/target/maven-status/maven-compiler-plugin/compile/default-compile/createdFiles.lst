@@ -1,0 +1,5 @@
+result\ShortcutReults.class
+model\ShortcutsTypeEnum.class
+model\Shortcut.class
+query\ShortcutQuery.class
+model\ShortcutPlatform.class

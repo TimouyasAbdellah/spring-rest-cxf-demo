@@ -1,0 +1,5 @@
+package model;
+
+public enum ShortcutsTypeEnum {
+	EDIT, FILE, NAVIGATE, PROJECT, REFACTOR, RUN, SEARCH, SOURCE, TEXT_EDITING, VIEWS, WINDOW
+}
